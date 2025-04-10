@@ -30,7 +30,7 @@ const applications = [
   {
     icon: <GraduationCap size={24} />,
     title: 'AI in Education',
-    description: 'Create interactive, AI-powered lessons that adapt to students' learning styles and languages. Provide real-time feedback and assessment tools for educators.',
+    description: 'Create interactive, AI-powered lessons that adapt to students learning styles and languages. Provide real-time feedback and assessment tools for educators.',
     color: 'from-primary/20 to-accent/20',
     textColor: 'from-primary to-accent',
     delay: 0.4
