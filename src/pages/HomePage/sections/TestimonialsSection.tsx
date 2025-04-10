@@ -15,7 +15,7 @@ const testimonials = [
     name: 'Michael Chen',
     title: 'Content Director, StreamFlix',
     image: '/images/testimonials/michael.jpg',
-    quote: 'As a content creator, VoiceBox has been game-changing for our international dubbing. We have cut production costs by 70% while maintaining authentic voice quality across 45 markets. Our audiences can't tell the difference from traditional voice actors.',
+    quote: 'As a content creator, VoiceBox has been game-changing for our international dubbing. We have cut production costs by 70% while maintaining authentic voice quality across 45 markets. Our audiences cannot tell the difference from traditional voice actors.',
     rating: 5,
     delay: 0.2
   },
