@@ -7,7 +7,7 @@ const testimonials = [
     name: 'Sarah Johnson',
     title: 'Customer Support Manager, GlobalTech',
     image: '/images/testimonials/sarah.jpg',
-    quote: 'VoiceBox has revolutionized our customer support operations. We've reduced response times by 60% while expanding our language capabilities to 30+ languages. The emotional intelligence built into the AI makes conversations feel remarkably human.',
+    quote: 'VoiceBox has revolutionized our customer support operations. We have reduced response times by 60% while expanding our language capabilities to 30+ languages. The emotional intelligence built into the AI makes conversations feel remarkably human.',
     rating: 5,
     delay: 0.1
   },
